@@ -5,7 +5,7 @@
 [![](https://img.shields.io/github/watchers/zengxin1020/Information-Security.svg)](https://github.com/zengxin1020/Information-Security/watchers)
 [![](https://img.shields.io/github/stars/zengxin1020/Information-Security.svg)](https://github.com/zengxin1020/Information-Security/stargazers)
 [![](https://img.shields.io/github/forks/zengxin1020/Information-Security.svg)](https://github.com/zengxin1020/Information-Security/network/members)
-[![](https://img.shields.io/github/repo-size/zengxin1020/Information-Security.svg)
+![](https://img.shields.io/github/repo-size/zengxin1020/Information-Security.svg)
 [![](https://img.shields.io/github/contributors/zengxin1020/Information-Security.svg)](https://github.com/zengxin1020/Information-Security/contributors)
 
 *Last updated: 2022/04/08*
