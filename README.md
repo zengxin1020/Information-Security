@@ -11,6 +11,21 @@
 
 ## 目录
 - 网络与信息安全管理员
+- 信息安全从业者书单推荐 [[Link](https://github.com/riusksk/secbook)]
+- 信息安全面试题汇总 [[Link](https://github.com/d1nfinite/sec-interview)]
+- 信息安全方面面试清单 [[Link](https://github.com/tiaotiaolong/sec_interview_know_list)]
+- 150本信息安全方面的书籍 [[Link](https://github.com/olist213/Information_Security_Books)]
+- 网络信息安全从业者面试指南 [[Link](https://github.com/FeeiCN/SecurityInterviewGuide)]
+- 信息安全工程师工作常用脚本 [[Link](https://github.com/c0ny1/WorkScripts)]
+- 信息安全实习和校招的面经、真题和资料 [[Link](https://github.com/SecYouth/sec-jobs)] 
+- 网络尖刀团队与安全参考团队共同打造的信息安全文献 [[Link](https://github.com/knowsafe/secbook)] 
+- 工信部APP个人隐私信息安全合规检测 [[Link](https://github.com/cgddgc/secheguicheck)] 
+- 信息安全(Web安全/渗透测试方向)面试题/解题思路 [[Link](https://github.com/we1h0/web-sec-interview)] 
+- 软考-信息安全工程师资料整理 [[Link](https://github.com/Eminlin/Information-Security-Engineer)] 
+- 信息安全相关的课程资料 [[Link](https://github.com/ISLOUC/Course-Network-and-Information-Security)]
+- 中国科学技术大学第八届信息安全大赛的官方与非官方题解 [[Link](https://github.com/USTC-Hackergame/hackergame2021-writeups)]
+- 中国科学技术大学第七届信息安全大赛的官方与非官方题解 [[Link](https://github.com/USTC-Hackergame/hackergame2020-writeups)]
+- CUMT 信息安全专业（网络安全方向）课程资源 [[Link](https://github.com/LetheSec/CUMT-IS-Course-Resources)]
 
 ## 贡献
 
